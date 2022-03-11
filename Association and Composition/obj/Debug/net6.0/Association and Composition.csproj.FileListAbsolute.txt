@@ -1,0 +1,15 @@
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\bin\Debug\net6.0\Association and Composition.exe
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\bin\Debug\net6.0\Association and Composition.deps.json
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\bin\Debug\net6.0\Association and Composition.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\bin\Debug\net6.0\Association and Composition.dll
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\bin\Debug\net6.0\Association and Composition.pdb
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.dll
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\refint\Association and Composition.dll
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.pdb
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\Association and Composition.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Association and Composition\obj\Debug\net6.0\ref\Association and Composition.dll

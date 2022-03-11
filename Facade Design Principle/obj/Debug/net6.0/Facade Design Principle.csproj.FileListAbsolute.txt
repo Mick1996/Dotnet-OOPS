@@ -1,0 +1,15 @@
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\bin\Debug\net6.0\Facade Design Principle.exe
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\bin\Debug\net6.0\Facade Design Principle.deps.json
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\bin\Debug\net6.0\Facade Design Principle.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\bin\Debug\net6.0\Facade Design Principle.dll
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\bin\Debug\net6.0\Facade Design Principle.pdb
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.dll
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\refint\Facade Design Principle.dll
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.pdb
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\Facade Design Principle.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Facade Design Principle\obj\Debug\net6.0\ref\Facade Design Principle.dll
