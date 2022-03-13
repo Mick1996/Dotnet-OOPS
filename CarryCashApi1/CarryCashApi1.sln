@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarryCashApi1", "CarryCashApi1.csproj", "{EF4B6022-ACEE-45AD-BC5B-35DD4AED2FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarryCashData", "..\CarryCashData\CarryCashData.csproj", "{9CF4D4EE-F00B-4B16-8732-D36480CF0A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4B6022-ACEE-45AD-BC5B-35DD4AED2FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4B6022-ACEE-45AD-BC5B-35DD4AED2FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4B6022-ACEE-45AD-BC5B-35DD4AED2FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4B6022-ACEE-45AD-BC5B-35DD4AED2FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF4D4EE-F00B-4B16-8732-D36480CF0A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF4D4EE-F00B-4B16-8732-D36480CF0A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF4D4EE-F00B-4B16-8732-D36480CF0A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF4D4EE-F00B-4B16-8732-D36480CF0A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B03B2E8-B69D-4439-921F-12EA09FE7201}
+	EndGlobalSection
+EndGlobal
