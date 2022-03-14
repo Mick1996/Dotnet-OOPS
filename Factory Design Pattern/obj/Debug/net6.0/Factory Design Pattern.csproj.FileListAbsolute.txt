@@ -1,0 +1,15 @@
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\bin\Debug\net6.0\Factory Design Pattern.exe
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\bin\Debug\net6.0\Factory Design Pattern.deps.json
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\bin\Debug\net6.0\Factory Design Pattern.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\bin\Debug\net6.0\Factory Design Pattern.dll
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\bin\Debug\net6.0\Factory Design Pattern.pdb
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.dll
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\refint\Factory Design Pattern.dll
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.pdb
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\Factory Design Pattern.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Factory Design Pattern\obj\Debug\net6.0\ref\Factory Design Pattern.dll
