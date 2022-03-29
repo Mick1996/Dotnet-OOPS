@@ -1,0 +1,33 @@
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\ocelot.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.exe
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.deps.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.dev.json
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\API Gateway.pdb
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\scopedcss\bundle\API Gateway.styles.css
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\staticwebassets\API Gateway.StaticWebAssets.Manifest.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CopyComplete
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\refint\API Gateway.dll
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.pdb
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\API Gateway.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Implementation of API Gateway\API Gateway\obj\Debug\net5.0\ref\API Gateway.dll

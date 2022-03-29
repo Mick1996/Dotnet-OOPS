@@ -1,0 +1,67 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/student",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": 
+      [
+        {
+          "Host": "localhost",
+          "Port": 44304 //IIS Express port no 
+        }
+      ],
+      "UpstreamPathTemplate": "/student",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    //below are student api which accepting id like HttpGet{id} and HttpDelete{id}
+    {
+      "DownstreamPathTemplate": "/api/student/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": 
+      [
+        {
+          "Host": "localhost",
+          "Port": 44304 //IIS Express port no 
+        }
+      ],
+      "UpstreamPathTemplate": "/student/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    //below are Course api mean CourseController
+    {
+      "DownstreamPathTemplate": "/api/course",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": 
+      [
+        {
+          "Host": "localhost",
+          "Port": 44377 //IIS Express port no 
+        }
+      ],
+      "UpstreamPathTemplate": "/course",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/course/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": 
+      [
+        {
+          "Host": "localhost",
+          "Port": 44377 //IIS Express port no 
+        }
+      ],
+      "UpstreamPathTemplate": "/course/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    }
+  ],
+  "GlobalConfiguration": 
+  {
+    "ServiceDiscoveryProvider": 
+    {
+      "Host": "localhost",
+      "Port": 8500,
+      "PollingInterval": 5000
+    }
+  }
+}  
