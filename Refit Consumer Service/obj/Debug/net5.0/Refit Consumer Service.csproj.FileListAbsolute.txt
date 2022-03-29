@@ -1,0 +1,34 @@
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\appsettings.json
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.exe
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.deps.json
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.runtimeconfig.dev.json
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit Consumer Service.pdb
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Refit.HttpClientFactory.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\System.Net.Http.Json.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\scopedcss\bundle\Refit Consumer Service.styles.css
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\staticwebassets\Refit Consumer Service.StaticWebAssets.Manifest.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.RazorTargetAssemblyInfo.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.csproj.CopyComplete
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\refint\Refit Consumer Service.dll
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.pdb
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\Refit Consumer Service.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Refit Consumer Service\obj\Debug\net5.0\ref\Refit Consumer Service.dll
